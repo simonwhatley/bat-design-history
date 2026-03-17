@@ -12,6 +12,10 @@ related:
       href: /register-of-training-providers/updating-how-we-show-provider-type/
     - text: Searching and filtering the list of training providers
       href: /register-of-training-providers/searching-and-filtering-the-list-of-training-providers/
+screenshots:
+  items:
+    - text: SCITT option in provider type filter
+      src: scitt-provider-type.png
 ---
 
 We made school-centred initial teacher training (SCITT) a concrete provider type so the provider type filter matches what users see in the provider list.
