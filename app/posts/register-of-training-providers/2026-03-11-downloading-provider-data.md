@@ -83,6 +83,8 @@ If a user has filtered the provider list, the downloaded file contains only the 
 
 ### Data included in the files
 
+We use snake_case for column headings, where words are separated by underscores (for example, `operating_name`). This is consistent with how data is structured in the API and makes the files easier to process programmatically. The column headings remain readable when opened directly in a spreadsheet application.
+
 The files contain the following fields:
 
 | Field | Description |
