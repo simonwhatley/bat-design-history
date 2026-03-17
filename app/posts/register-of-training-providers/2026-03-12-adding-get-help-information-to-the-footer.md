@@ -21,7 +21,7 @@ The 'Get help' section appears in the footer below the navigation links.
 
 It includes:
 
-- an email address - becomingateacher@digital.education.gov.uk
+- an email address - <becomingateacher@digital.education.gov.uk>
 - a response time message - 'You'll get a response within 5 working days'
 
 Placing help information in the footer means it is available on every page without cluttering the main content.
