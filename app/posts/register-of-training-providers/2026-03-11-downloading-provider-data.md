@@ -15,6 +15,10 @@ related:
       href: https://www.gov.uk/guidance/using-open-document-formats-odf-in-your-organisation
     - text: Creating and sharing spreadsheets
       href: https://www.gov.uk/guidance/creating-and-sharing-spreadsheets
+screenshots:
+  items:
+    - text: Providers list
+      src: downloading-data--providers-list.png
 ---
 
 We added a way to download provider data as a CSV (comma-separated values) or ODS (open document spreadsheet) file.
