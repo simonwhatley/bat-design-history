@@ -64,7 +64,7 @@ Selecting a link immediately downloads a file to the user's device. We do not sh
 
 We name the file 'training-providers' followed by a timestamp. For example:
 
-```
+```text
 training-providers-20260316-164503.csv
 ```
 
