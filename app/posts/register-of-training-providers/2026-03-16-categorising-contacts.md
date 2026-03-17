@@ -11,6 +11,24 @@ related:
       href: /register-of-training-providers/managing-provider-contacts/
     - text: Making contact phone number optional
       href: /register-of-training-providers/making-contact-phone-number-optional/
+screenshots:
+  items:
+    - text: Add contact form
+      src: categorising-contacts--add-contact.png
+    - text: Add contact form - with errors
+      src: categorising-contacts--add-contact-with-error.png
+    - text: Add contact form - with errors (other role)
+      src: categorising-contacts--add-contact-with-error-other-role.png
+    - text: Add contact - Check your answers
+      src: categorising-contacts--add-contact-check-your-answers.png
+    - text: Contacts list
+      src: categorising-contacts--contacts-list.png
+    - text: Edit contact form
+      src: categorising-contacts--edit-contact.png
+    - text: Edit contact form - with errors (other role)
+      src: categorising-contacts--edit-contact-with-error-other-role.png
+    - text: Edit contact - Check your answers
+      src: categorising-contacts--edit-contact-check-your-answers.png
 ---
 
 We added a 'Role' field to the contact form so contacts can be categorised.
