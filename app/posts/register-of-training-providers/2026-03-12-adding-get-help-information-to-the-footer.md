@@ -28,4 +28,6 @@ Placing help information in the footer means it is available on every page witho
 
 The response time message sets clear expectations about when users can expect a reply from the team.
 
+![Footer showing the new 'Get help' section](get-help.png "Footer showing the new 'Get help' section")
+
 *[DfE]: Department for Education
