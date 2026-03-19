@@ -1,7 +1,7 @@
 ---
 title: SCITT provider type
 description: We made SCITT a concrete provider type so the filter reflects what users see in the provider list
-date: 2026-03-17
+date: 2026-02-17
 tags:
   - providers
   - provider types
