@@ -14,6 +14,14 @@ related:
       href: /register-of-placement-schools/finding-placement-schools-by-location/
     - text: Finding placement schools by provider
       href: /register-of-placement-schools/finding-placement-schools-by-provider/
+screenshots:
+  items:
+    - text: Placements list
+      src: placements-list.png
+    - text: Placements list - filtered
+      src: placements-list--filtered.png
+    - text: Placement school
+      src: placement-school.png
 ---
 
 Users searching for placement schools often need to find schools that have accepted placements for a specific subject.
