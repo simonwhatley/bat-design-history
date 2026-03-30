@@ -14,6 +14,24 @@ related:
       href: https://becoming-a-teacher.design-history.education.gov.uk/manage-teacher-training-applications/managing-individual-email-notifications/
     - text: Managing individual email notifications on Publish teacher training courses
       href: https://becoming-a-teacher.design-history.education.gov.uk/publish-teacher-training-courses/managing-individual-email-notifications/
+screenshots:
+  items:
+    - text: Your account - empty
+      src: your-account--empty.png
+    - text: "Step 1: Frequency of changes"
+      src: frequency-of-changes.png
+    - text: "Step 1: Frequency of changes with errors"
+      src: frequency-of-changes--error.png
+    - text: "Step 2: Types of changes"
+      src: types-of-changes.png
+    - text: "Step 2: Types of changes with errors"
+      src: types-of-changes--error.png
+    - text: "Step 3: Check your answers"
+      src: check-your-answers.png
+    - text: "Step 3: Check your answers with no emails"
+      src: check-your-answers--none.png
+    - text: Your account - completed
+      src: your-account--complete.png
 ---
 
 Support users need to know when provider data changes in the register. Without notifications, they have to check the service manually or rely on colleagues to flag changes. This makes it harder to ensure changes are correct and meet policy guidelines.
