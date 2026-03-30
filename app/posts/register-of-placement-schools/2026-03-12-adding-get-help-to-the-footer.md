@@ -27,3 +27,5 @@ It includes:
 - a response time message: 'You'll get a response within 5 working days'
 
 The response time message sets clear expectations about when users can expect a reply. This reduces uncertainty for users waiting for a response.
+
+![Footer showing the new 'Get help' section](get-help.png "Footer showing the new 'Get help' section")
