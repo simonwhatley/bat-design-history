@@ -18,6 +18,8 @@ screenshots:
       src: providers-list.png
     - text: Providers list - filtered
       src: providers-list--filtered.png
+    - text: Providers list - more academic years expanded
+      src: providers-list--more.png
 ---
 
 We updated how we show academic years on each provider result in the provider list.
