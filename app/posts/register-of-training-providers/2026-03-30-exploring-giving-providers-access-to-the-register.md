@@ -20,6 +20,14 @@ related:
       href: /register-of-training-providers/why-we-need-a-register-of-training-providers/
     - text: Reorganising the layout of the provider pages
       href: /register-of-training-providers/reorganising-the-layout-of-the-provider-pages/
+screenshots:
+  items:
+    - text: Admin view
+      src: provider-view--admin.png
+    - text: User view
+      src: provider-view--user.png
+    - text: Provider switcher
+      src: provider-view--switcher.png
 ---
 
 One of the key benefits of the register is that it maintains standardised, up-to-date data about training providers across the Becoming a teacher (BAT) service line.
