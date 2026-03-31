@@ -67,7 +67,7 @@ We considered two options for where to manage provider users:
 1. Extending the existing users section
 2. Adding a users section within providers
 
-**Option 1: Extend the existing 'Users' section**
+### Option 1: Extend the existing 'Users' section
 
 The first option was to adapt the existing users section to accommodate all user types, including support users, API users and provider users.
 
@@ -79,7 +79,7 @@ We would need to adapt the interface depending on the type of user being added, 
 
 We would need to add a gate question asking for the type of user being added (provider, support or API). This would define the appropriate user flow and validation rules for each type. Support and API users must have a DfE email address. Provider users can have any valid email address because we do not know which domains providers use.
 
-**Option 2: Add a users section within each provider**
+### Option 2: Add a users section within each provider
 
 The second option was to add a 'Users' section within each provider's pages.
 
