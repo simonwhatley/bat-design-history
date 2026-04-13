@@ -33,12 +33,16 @@
     {% block beforeContent %}{% endblock %}
     <main class="govuk-main-wrapper {{ mainClasses }}" id="main-content" role="main"{% if mainLang %} lang="{{ mainLang }}"{% endif %}>
     {% block content %}
-      {% if service in ["publish-teacher-training-courses", "find-teacher-training"] %}
+      {% if service in ["publish-teacher-training-courses", "find-teacher-training", "manage-teacher-training-applications", "apply-for-teacher-training"] %}
         {% set messageHtml %}
           {% if service == "publish-teacher-training-courses" %}
             <p class="govuk-body">The Publish teacher training courses design history has moved to the <a href="https://design-histories.education.gov.uk/publish-teacher-training-courses" class="govuk-link">DfE design history site</a></p>
-          {% else %}
+          {% elseif service == "find-teacher-training" %}
             <p class="govuk-body">The Find teacher training courses design history has moved to the <a href="https://design-histories.education.gov.uk/find-teacher-training-courses" class="govuk-link">DfE design history site</a></p>
+          {% elseif service == "manage-teacher-training-applications" %}
+            <p class="govuk-body">The Manage teacher training applications design history has moved to the <a href="https://design-histories.education.gov.uk/manage-teacher-training-applications" class="govuk-link">DfE design history site</a></p>
+          {% elseif service == "apply-for-teacher-training" %}
+            <p class="govuk-body">The Apply for teacher training design history has moved to the <a href="https://design-histories.education.gov.uk/apply-for-teacher-training" class="govuk-link">DfE design history site</a></p>
           {% endif %}
         {% endset %}
         {{ appNotice({
